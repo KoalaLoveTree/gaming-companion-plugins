@@ -1,6 +1,6 @@
 # Gaming companion plugins
 
-Each folder here is one plugin. The app reads this directory. It does not fetch GitHub on its own.
+Plugins for the [gaming companion](https://github.com/KoalaLoveTree/gaming_companion). Each folder here is one plugin. The app reads this directory. It does not fetch GitHub on its own.
 
 Clone it and point the app at the clone:
 
