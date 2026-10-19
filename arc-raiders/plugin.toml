@@ -1,0 +1,16 @@
+id = "arc-raiders"
+name = "Arc Raiders"
+entry = "loot"
+
+[[resource]]
+id = "loot"
+title = "Loot sheet"
+kind = "url"
+src = "https://www.playerauctions.com/arc-raiders-loot-cheat-sheet/"
+inject = ["inject.css"]
+
+[[resource]]
+id = "notes"
+title = "Notes"
+kind = "markdown"
+src = "notes.md"
