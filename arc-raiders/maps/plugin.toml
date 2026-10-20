@@ -1,0 +1,9 @@
+id = "arc-maps"
+name = "Maps"
+entry = "maps"
+
+[[resource]]
+id = "maps"
+title = "Maps"
+kind = "url"
+src = "https://arctracker.io/maps"
